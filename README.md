@@ -25,4 +25,4 @@ Analisar o desempenho de vendas e apoiar a tomada de decisão por meio de indica
 - Dashboard orientado a negócio
 
 ## Preview
-![Dashboard](imagens/graficos.jpeg)
+![Dashboard](imagens/graficos.jpg)
